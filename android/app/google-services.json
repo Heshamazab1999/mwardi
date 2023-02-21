@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945714118949",
+    "project_id": "mwardi-d1f5c",
+    "storage_bucket": "mwardi-d1f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945714118949:android:149f7745fd607036b15acc",
+        "android_client_info": {
+          "package_name": "com.bobr.mwardi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945714118949-d1khnmocnais2v2na6t0aua2ceke8vj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bobr.mwardi",
+            "certificate_hash": "f753e4dcfa3c7bee967c78445fb5bce1dce048dd"
+          }
+        },
+        {
+          "client_id": "945714118949-uloeliftooq4upicp9smv3tphv6tufg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5-zVFmZEJmszW8wDFXLTRuSiipc05Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945714118949-uloeliftooq4upicp9smv3tphv6tufg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
